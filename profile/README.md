@@ -1,12 +1,17 @@
-## Hi there 👋
+## CSE343 Spring 2022 - Team NULL
 
-<!--
+## Description
+Welcome to our GitHub repository for Gebze Technical University's Software Engineering course, CSE343.
 
-**Here are some ideas to get you started:**
+## Project
+**Here** is an attendance taking and tracking application. Its basic mechanism is to display a QR
+code by a host and scan it by students. That makes attendance easier for everyone. With Here,
+teachers can take attendance without counting the class or circulating a sheet in class. And
+students certainly know in which weeks they attend to the class.  
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Team Members
+* [Serhat Sarı](https://github.com/serhhatsari) : DevOps Engineer & Frontend Developer   
+* [Halil İbrahim İlhan](https://github.com/hybrayhem) : Mobile Developer   
+* [Ozan Armağan](https://github.com/ozanarmagan) : Full Stack Developer   
+* [Asuman Sare Ergüt](https://github.com/asumansaree) : Backend Developer   
+* [Atacan Başaran](https://github.com/Tefoni)  :  Mobile Developer  
