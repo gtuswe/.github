@@ -1,7 +1,7 @@
 ## CSE343 Spring 2022 - Team NULL
 
 ## Description
-Welcome to our GitHub repository for Gebze Technical University's Software Engineering course, CSE343.
+Welcome to our GitHub organization for Gebze Technical University's Software Engineering course, CSE343.
 
 ## Project
 **Here** is an attendance taking and tracking application. Its basic mechanism is to display a QR
